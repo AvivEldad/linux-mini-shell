@@ -1,4 +1,4 @@
-linux mini shell
+linux simple mini shell
 
 ==Description==
 The program present a shell. The user insert command of his choice, and the program parses the string command to a process.
